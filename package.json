@@ -1,0 +1,11 @@
+{
+  "name": "minecraft-docker",
+  "version": "1.0.0",
+  "description": "a docker setup to run a minecraft server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Im alive\""
+  },
+  "author": "Ian Jones",
+  "license": "ISC"
+}
